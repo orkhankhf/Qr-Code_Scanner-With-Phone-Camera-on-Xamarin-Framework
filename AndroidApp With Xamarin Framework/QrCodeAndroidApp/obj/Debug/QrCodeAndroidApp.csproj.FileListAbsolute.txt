@@ -1,0 +1,103 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.pdb
+C:\Users\Gamer\Desktop\QrCodeAndroidApp.dll
+C:\Users\Gamer\Desktop\QrCodeAndroidApp.pdb
+C:\Users\Gamer\Desktop\QrCodeAndroidApp.QrCodeAndroidApp.apk
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\bin\QrCodeAndroidApp.QrCodeAndroidApp.apk
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\R.cs.flag
+C:\Users\Gamer\Desktop\QrCodeAndroidApp.QrCodeAndroidApp-Signed.apk
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\uploadflags.txt
+C:\Users\Gamer\Desktop\Plugin.Media.dll.mdb
+C:\Users\Gamer\Desktop\Plugin.Permissions.dll.mdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\QrCodeAndroidApp.dll.mdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\QrCodeAndroidApp.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.csprojResolveAssemblyReference.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.csproj.CoreCompileInputs.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.csproj.CopyComplete
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\QrCodeAndroidApp.pdb
+D:\Google Drive Backup (08-03-2018) last\QrCodeAndroidApp.dll
+D:\Google Drive Backup (08-03-2018) last\QrCodeAndroidApp.pdb
+D:\Google Drive Backup (08-03-2018) last\QrCodeAndroidApp.QrCodeAndroidApp.apk
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\bin\QrCodeAndroidApp.QrCodeAndroidApp.apk
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\res\layout\main.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\res\values\strings.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\R.cs.flag
+D:\Google Drive Backup (08-03-2018) last\QrCodeAndroidApp.QrCodeAndroidApp-Signed.apk
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\uploadflags.txt
+D:\Google Drive Backup (08-03-2018) last\Plugin.Media.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\Plugin.Media.pdb
+D:\Google Drive Backup (08-03-2018) last\Plugin.Permissions.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\Plugin.Permissions.pdb
+D:\Google Drive Backup (08-03-2018) last\Plugin.CurrentActivity.dll
+D:\Google Drive Backup (08-03-2018) last\Plugin.Media.Abstractions.dll
+D:\Google Drive Backup (08-03-2018) last\Plugin.Media.dll
+D:\Google Drive Backup (08-03-2018) last\Plugin.Permissions.Abstractions.dll
+D:\Google Drive Backup (08-03-2018) last\Plugin.Permissions.dll
+D:\Google Drive Backup (08-03-2018) last\Xamarin.Android.Support.Annotations.dll
+D:\Google Drive Backup (08-03-2018) last\Xamarin.Android.Support.Compat.dll
+D:\Google Drive Backup (08-03-2018) last\Xamarin.Android.Support.Core.Utils.dll
+D:\Google Drive Backup (08-03-2018) last\Plugin.Media.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\Plugin.Permissions.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\QrCodeAndroidApp.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Mono.Android.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Mono.Security.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\mscorlib.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Media.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.Core.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\android\assets\System.Xml.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Media.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\QrCodeAndroidApp.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Mono.Android.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Mono.Security.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\mscorlib.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Media.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Core.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Xml.pdb
+D:\Google Drive Backup (08-03-2018) last\QrCodeAndroidApp.dll
+D:\Google Drive Backup (08-03-2018) last\Mono.Android.pdb
+D:\Google Drive Backup (08-03-2018) last\mscorlib.pdb
+D:\Google Drive Backup (08-03-2018) last\System.Core.pdb
+D:\Google Drive Backup (08-03-2018) last\System.pdb
+D:\Google Drive Backup (08-03-2018) last\System.Xml.pdb
+D:\Google Drive Backup (08-03-2018) last\System.Net.Http.pdb
+D:\Google Drive Backup (08-03-2018) last\System.Runtime.Serialization.pdb
+D:\Google Drive Backup (08-03-2018) last\System.ServiceModel.Internals.pdb
+D:\Google Drive Backup (08-03-2018) last\Mono.Security.pdb
+D:\Google Drive Backup (08-03-2018) last\System.ComponentModel.Composition.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Mono.Android.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\mscorlib.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Media.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Core.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Xml.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Mono.Security.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\QrCodeAndroidApp.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Media.dll.mdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\10-03-2018\QrCodeAndroidApp\QrCodeAndroidApp\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
